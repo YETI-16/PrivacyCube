@@ -1,15 +1,16 @@
 ClassiCube is a custom Minecraft Classic compatible client written in C from scratch.<br>
 > [!IMPORTANT]
 **ClassiCube is not affiliated with (or supported by) Mojang AB, Minecraft, or Microsoft in any way.** <br><br>
-**ClassiCube is not trying to replicate modern Minecraft.**<br>
-**It will never support survival, Minecraft accounts, or modern Minecraft servers.**
+**ClassiCube is not modern Minecraft.**<br>
+**It will never support Minecraft accounts or modern Minecraft servers.**
 
 # What ClassiCube is
 
-ClassiCube aims to replicate the 2009 Minecraft Classic client while offering **optional** enhancements to improve gameplay. ClassiCube can run on [many systems](#supported-systems), including desktop, web, mobile, and even some consoles.
+ClassiCube aims to replicate the generic 2009 Minecraft Classic client while offering **optional** enhancements to improve gameplay. ClassiCube can run on [many systems](#supported-systems), including desktop, web, mobile, and even some consoles.
 <details>
 <summary><b>Features (click to expand)</b></summary>
 
+* area for personal enhancing, such as plugins, resource packs, textures, music, etc,. The list goes on!
 * Much better performance and minimal memory usage compared to original Minecraft Classic
 * Optional enhancements including custom blocks, models, and environment colors
 * Partially supports some features of Minecraft Classic versions before 0.30
@@ -29,7 +30,7 @@ You can **download ClassiCube** [here](https://www.classicube.net/download/) and
 
 # We need your help
 
-ClassiCube strives to replicate the original Minecraft Classic experience by **strictly adhering to [clean room](https://en.wikipedia.org/wiki/Clean_room_design) reverse engineering approach**.
+ClassiCube strives to replicate the original Minecraft Classic experience by **adhering to [clean room](https://en.wikipedia.org/wiki/Clean_room_design) reverse engineering approach**.
 
 If you're interested in documenting or verifying the behaviour of the original Minecraft Classic, please get in contact on the [ClassiCube Discord](https://classicube.net/discord)
 
